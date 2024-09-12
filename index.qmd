@@ -4,4 +4,4 @@ author: "Ziqi Zhu"
 date: format(Sys.time(), "%d %B %Y")
 ---
 
-This is a Ziqi Zhu's webiste
+This is Ziqi Zhu's website, thx for review ^^
